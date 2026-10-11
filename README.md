@@ -1,3 +1,5 @@
+![Fawaz Nashar — Code, Create, Automate](./fawaz-profile-header-neon-v4.png)
+
 ### Hi, I'm Fawaz 👋
 
 **I build an Arabic-first AI video & ad studio — powered by Claude Code agents.**
@@ -9,3 +11,5 @@
 - 🛡️ Security-minded: every third-party skill is scanned before it ships
 
 **Toolbox:** Claude Code · Higgsfield · ComfyUI · ElevenLabs · Remotion · ffmpeg · Python · PowerShell · Unity · n8n
+
+![Neon Git branch divider](./fawaz-profile-footer.png)
